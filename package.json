@@ -1,0 +1,35 @@
+{
+  "name": "Test_Modular_Patterns",
+  "version": "0.1.0",
+  "description": "Demonstrate simple test patterns and knowledge of grunt / package.json.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-simple-mocha": "^0.4.0"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+    "test": "simplemocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshLandry/2015.02.03-Simple-Test-and-Modular-Patterns.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Joshua Landry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshLandry/2015.02.03-Simple-Test-and-Modular-Patterns/issues"
+  },
+  "homepage": "https://github.com/JoshLandry/2015.02.03-Simple-Test-and-Modular-Patterns"
+}
